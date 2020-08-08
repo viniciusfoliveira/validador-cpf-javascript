@@ -1,1 +1,3 @@
-# validador de cpf feito em javascript
+# validador de cpf
+
+A linguagem utilizada foi o javascript
