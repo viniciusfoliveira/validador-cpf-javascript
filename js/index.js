@@ -62,7 +62,7 @@ function validarCpf(){
    if(11-(soma % 11) >  9 ) {
         digitoVerificador = 0;
 
-        if (nCpf[10] = digitoVerificador) achou2 = true;
+        if (nCpf[10] == digitoVerificador) achou2 = true;
    }
 
    else{
